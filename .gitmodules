@@ -1,0 +1,3 @@
+[submodule "td-customers-api"]
+	path = td-customers-api
+	url = git@github.com:danielStefanello/td-customers-api.git
