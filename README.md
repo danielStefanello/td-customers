@@ -57,3 +57,12 @@ docker compose up -d --build
 - A parte de frontend não foi desenvolvida;
 - A infra não foi testada (ainda há de ser feito todo integração e testes para deploy - melhorando e atendendo os conceitos de CI/CD);
 - O backend esta com o mínimo necessário na parte de customers (clientes) para ser funcional;
+
+## 🚀 Resposta a pergunta proposta sobre o painel administrativo para este sistema:
+
+1. Quanto tempo levaria?
+   - Depende de quais funcionalidades seriam solicitadas, mas considerando o mínimo possível para um painel adm ser útil, em torno de 10 dias úteis de trabalho;
+2. Quantos desenvolvedores?
+   - 2 (Um backend e um frontend)
+3. Qual a senioridade dos desenvolvedores?
+   - Jr com boa experiência ou plenos
